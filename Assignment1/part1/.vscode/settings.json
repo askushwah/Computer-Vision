@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+<<<<<<< HEAD
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "cmath": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+=======
+        "iterator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ios": "cpp",
+        "__locale": "cpp",
+        "__string": "cpp",
+        "chrono": "cpp"
+>>>>>>> origin/kushwah
+    }
+}
